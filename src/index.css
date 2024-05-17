@@ -80,4 +80,8 @@
   .nav-button-style {
     @apply px-4 py-5 font-semibold text-techit-gray-300;
   }
+
+  .container-style {
+    @apply max-w-screen-xl mx-auto;
+  }
 }

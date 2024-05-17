@@ -9,7 +9,7 @@ const TopBanner = ({ setIsViewed }) => {
 
   return (
     <div className="h-[42px] bg-[#ff7711] flex items-center">
-      <div className="max-w-screen-xl mx-auto w-full px-[10px] text-sm font-medium md:text-base md:font-semibold flex justify-between items-center">
+      <div className="container-style w-full px-[10px] text-sm font-medium md:text-base md:font-semibold flex justify-between items-center">
         <div className="flex items-center">
           기초가 탄탄한 클라우드 엔지니어 교육
           <img className="w-[52px]" src={CLD} alt="CLD" />
