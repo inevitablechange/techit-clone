@@ -4,6 +4,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        "techit-main": "#ff7710",
         "techit-gray": { 100: "#e5e5e5", 200: "#737373", 300: "#222222" },
       },
     },

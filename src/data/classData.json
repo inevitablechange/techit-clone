@@ -1,0 +1,74 @@
+[
+  {
+    "name": "프론트엔드",
+    "description": "기초가 탄탄한 개발자로 성장",
+    "image": "frontend",
+    "alarm": "11기 - 사전알림"
+  },
+  {
+    "name": "백엔드 : Java",
+    "description": "Java부터 Spring까지",
+    "image": "backend-java",
+    "alarm": "3기 - 사전알림"
+  },
+  {
+    "name": "백엔드 : Python",
+    "description": "파이썬으로 배우는 백엔드",
+    "image": "backend-python",
+    "alarm": "11기 - 사전알림"
+  },
+  {
+    "name": "앱스쿨 : iOS",
+    "description": "실무에 가장 가까운 iOS학습",
+    "image": "ios",
+    "alarm": "7기 - 24년 9월 오픈"
+  },
+  {
+    "name": "AI 스쿨",
+    "description": "AI 역량을 위한 실습 교육",
+    "image": "ai",
+    "alarm": "3기 - 사전알림"
+  },
+  {
+    "name": "앱스쿨 : Android",
+    "description": "기본기와 프로젝트 경험을 함께",
+    "image": "android",
+    "alarm": "3기 - 사전알림"
+  },
+  {
+    "name": "데이터 분석",
+    "description": "데이터 분석가로의 탄탄한 시작점",
+    "image": "data",
+    "alarm": "4기 - 사전 알림"
+  },
+  {
+    "name": "디자인",
+    "description": "경쟁력있는 커리어의 시작",
+    "image": "design",
+    "alarm": "3기 - 사전알림"
+  },
+  {
+    "name": "블록체인",
+    "description": "국내 유일 KDT 블록체인 과정",
+    "image": "blockchain",
+    "alarm": "3기 - 사전알림"
+  },
+  {
+    "name": "스타트업 스테이션",
+    "description": "IT 창업 시작을 위한 첫 스텝",
+    "image": "startup",
+    "alarm": "10기 - 24년 11월 오픈"
+  },
+  {
+    "name": "프론트엔드 심화",
+    "description": "프론트엔드 한끗 성장을 위해",
+    "image": "frontend-plus",
+    "alarm": "2기 - 24년 09월 오픈"
+  },
+  {
+    "name": "백엔드 심화",
+    "description": "취업 경쟁력을 높여줄 225시간",
+    "image": "backend-plus",
+    "alarm": "2기 - 24년 11월 오픈"
+  }
+]

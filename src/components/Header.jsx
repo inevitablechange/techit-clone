@@ -2,7 +2,7 @@ import Logo from "/images/techit_logo.svg";
 
 const Header = () => {
   return (
-    <header className="border border-techit-gray-100">
+    <header className="sticky top-0 border border-techit-gray-100 bg-white z-10">
       <div className="container-style flex justify-between items-center">
         <div className="flex items-center">
           <div className="p-6">
