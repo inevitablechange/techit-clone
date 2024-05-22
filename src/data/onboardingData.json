@@ -1,0 +1,42 @@
+[
+  {
+    "title": "[프론트엔드] 사이트 기본 구조의 이해",
+    "description": "개발 입문자를 위한 웹 사이트 제작의 정석",
+    "image": "frontend",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "price": 376200,
+    "discountPrice": 37620
+  },
+  {
+    "title": "[백엔드] Java 첫걸음 시작하기",
+    "description": "딱 하나만 개발을 배운다면 이것! 대세 언어 Java",
+    "image": "backend-java",
+    "tags": ["Java", "Spring Boot"],
+    "price": 321860,
+    "discountPrice": 32190
+  },
+  {
+    "title": "[백엔드] Python 첫걸음 시작하기",
+    "description": "내 입맛에 맞는 자동화 프로그램 만들기",
+    "image": "backend-python",
+    "tags": ["Python", "Django"],
+    "price": 321860,
+    "discountPrice": 32190
+  },
+  {
+    "title": "[데이터분석] 실무에 필요한 데이터 분석&시각화",
+    "description": "조사와 분석이 일상인 직장인들의 바이블, Python 데이터 분석 강의",
+    "image": "data",
+    "tags": ["Pandas", "Numpy", "Python"],
+    "price": 490000,
+    "discountPrice": 49000
+  },
+  {
+    "title": "[블록체인] 나만의 NFT 생성부터 판매까지",
+    "description": "화제의 블록체인 스킬을 내 손으로 재현!",
+    "image": "blockchain",
+    "tags": ["Solidity", "EVM", "Remix IDE"],
+    "price": 490000,
+    "discountPrice": 49000
+  }
+]
