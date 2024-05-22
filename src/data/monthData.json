@@ -1,0 +1,103 @@
+[
+  {
+    "2024년 5월": [
+      {
+        "title": "앱 스쿨: iOS",
+        "description": "iOS 개발 실무부터 앱 배포까지 취업에 최적화된 부트캠프",
+        "image": "ios",
+        "d-day": "ing",
+        "period": "24.04.15(월) ~ 24.05.23(목) 까지"
+      },
+      {
+        "title": "유니티 게임 스쿨",
+        "description": "게임 개발자로 거듭나기 위한 6개월간의 여정",
+        "image": "unity",
+        "d-day": "ing",
+        "period": "24.05.07(화) ~ 24.05.27(월) 까지"
+      },
+      {
+        "title": "클라우드 엔지니어링 스쿨",
+        "description": "기본기가 탄탄한 클라우드 엔지니어 전문가로의 도약",
+        "image": "cloud",
+        "d-day": "ing",
+        "period": "24.05.09(목) ~ 24.06.04(화) 까지"
+      }
+    ]
+  },
+  {
+    "2024년 6월": [
+      {
+        "title": "백엔드 스쿨: Python",
+        "description": "AI/데이터 분석 시스템 구축을 통한 파이썬 활용 백엔드 개발자 교육 과정",
+        "image": "backend-python",
+        "d-day": "alarm",
+        "period": "24.05.23(목) ~ 24.06.21(금) 까지"
+      },
+      {
+        "title": "앱 스쿨: Android",
+        "description": "앱 기초부터 앱 배포까지 실무에 능한 주니어 앱 개발자로 성장",
+        "image": "android",
+        "d-day": "alarm",
+        "period": "24.06.01(토) ~ 24.06.30(일) 까지"
+      },
+      {
+        "title": "프론트엔드 스쿨",
+        "description": "수료생 99%가 추천하는 프론트엔드 집중 부트캠프 테킷 프론트엔드 스쿨",
+        "image": "frontend",
+        "d-day": "alarm",
+        "period": "24.06.01(토) ~ 24.06.30(일) 까지"
+      }
+    ]
+  },
+  {
+    "2024년 7월": []
+  },
+  {
+    "2024년 8월": [
+      {
+        "title": "데이터분석 스쿨",
+        "description": "데이터 분석가를 향한 성장의 중심에 서다",
+        "image": "data",
+        "d-day": "alarm",
+        "period": "24.07.01(월) ~ 24.07.31(수) 까지"
+      },
+      {
+        "title": "디자인 스쿨",
+        "description": "취업에 날개를 다는 UX/UI 실무코스",
+        "image": "design",
+        "d-day": "alarm",
+        "period": "24.07.01(월) ~ 24.07.31(수) 까지"
+      },
+      {
+        "title": "프론트엔드 스쿨 플러스",
+        "description": "프론트엔드 개발자로의 한 끗 성장을 위한 라스트마일 과정",
+        "image": "frontend-plus",
+        "d-day": "alarm",
+        "period": "24.09.02(월) ~ 24.09.30(월) 까지"
+      },
+      {
+        "title": "백엔드 스쿨 플러스",
+        "description": "백엔드 개발자로의 한 끗 성장을 위한 라스트마일 과정",
+        "image": "backend-plus",
+        "d-day": "alarm",
+        "period": "24.11.01(금) ~ 24.11.30(토) 까지"
+      }
+    ]
+  },
+  {
+    "2024년 9월": [
+      {
+        "title": "블록체인 스쿨",
+        "description": "커리어 변화를 위한 단 하나의 취업 연계 교육",
+        "image": "blockchain",
+        "d-day": "fin"
+      },
+      {
+        "title": "백엔드 스쿨: Python",
+        "description": "우선채용을 협약한 기업의 입사지원까지 연결되는 취업 맞춤형 교육",
+        "image": "backend-python-2",
+        "d-day": "fin"
+      }
+    ]
+  }
+]
