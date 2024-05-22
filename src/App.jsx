@@ -22,7 +22,7 @@ const App = () => {
   }, []);
 
   return (
-    <div className="font-pretendard text-techit-gray-300 mb-96">
+    <div className="font-pretendard text-techit-gray-300">
       {!isViewed && <TopBanner setIsViewed={setIsViewed} />}
       <Header />
       <SlideBanner />
@@ -33,6 +33,9 @@ const App = () => {
       <TrendSection />
       <EducationSection />
       <Footer />
+      <button className="w-[216px] fixed bottom-12 right-4">
+        <img src="/images/ask.png" alt="문의하기" />
+      </button>
     </div>
   );
 };
