@@ -8,6 +8,7 @@ import StripBanner from "./components/StripBanner";
 import OnboardingSection from "./components/OnboardingSection";
 import TrendSection from "./components/TrendSection";
 import EducationSection from "./components/EducationSection";
+import Footer from "./components/Footer.jsx";
 
 const App = () => {
   const [isViewed, setIsViewed] = useState(false);
@@ -31,6 +32,7 @@ const App = () => {
       <OnboardingSection />
       <TrendSection />
       <EducationSection />
+      <Footer />
     </div>
   );
 };
